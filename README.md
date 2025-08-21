@@ -4,6 +4,7 @@
 
 <div align="center">
 [![Discord][shield-discord-server]][discord-invite]
+[![License][shield-repo-license]][repo-license]
 </div>
 
 ----
