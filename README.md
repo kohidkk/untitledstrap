@@ -2,11 +2,6 @@
 > The only official places to download Bloxstrap are this GitHub repository and [bloxstraplabs.com](https://bloxstraplabs.com). Any other websites offering downloads or claiming to be us are not controlled by us.
 > This is also the only place you can find Untitledstrap oficially.
 
-<div align="center">
-[![Discord][shield-discord-server]][discord-invite]
-[![License][shield-repo-license]][repo-license]
-</div>
-
 ----
 
 Untitledstrap is a third-party replacement for the standard Roblox bootstrapper, providing additional useful features and improvements.
