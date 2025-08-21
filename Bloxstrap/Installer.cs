@@ -15,7 +15,7 @@ namespace Bloxstrap
 
         private static string StartMenuShortcut => Path.Combine(Paths.WindowsStartMenu, $"{App.ProjectName}.lnk");
 
-        public string InstallLocation = Path.Combine(Paths.LocalAppData, App.ProjectName);
+        public string InstallLocation = Path.Combine(Paths.LocalAppData, App.ProjectName); // uses same path as bloxstrap so everything will be shared through bloxstrap n untitledstrap
 
         public bool ExistingDataPresent => File.Exists(Path.Combine(InstallLocation, "Settings.json"));
 
