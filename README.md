@@ -3,7 +3,7 @@
 > This is also the only place you can find Untitledstrap oficially.
 
 <div align="center">
-
+[![Discord][shield-discord-server]][discord-invite]
 </div>
 
 ----
